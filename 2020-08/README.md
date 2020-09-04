@@ -6,7 +6,7 @@ Here is a collection of notable links from fellow streamers in the community. Fe
 - [BBB Voice Programming](https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride)
 - [ChefBrent - You hate EL****0??](https://clips.twitch.tv/PlacidClumsyGnatCmonBruh)
 - [Twilio - Well, It's gonna get weirder](https://clips.twitch.tv/CleverMildCobblerBabyRage)
-- [sorskoot](https://www.twitch.tv/sorskoot/clip/SillyAmazingHummingbirdDuDudu)
+- [sorskoot - chatbot rosie is becoming more self aware](https://www.twitch.tv/sorskoot/clip/SillyAmazingHummingbirdDuDudu)
 - [roberttables](https://clips.twitch.tv/SmallSuperCrowEagleEye)
 - [csharpfritz - evil laugh while playing FallGuys](https://www.twitch.tv/csharpfritz/clip/BadVastFrogBCouch?filter=clips&range=7d&sort=time)
 - [csharpfritz - learning 25% of python in an hour](https://www.twitch.tv/csharpfritz/clip/SaltyProudSangDuDudu?filter=clips&range=7d&sort=time)
